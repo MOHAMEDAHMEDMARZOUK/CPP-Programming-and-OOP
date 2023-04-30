@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671898142 source:e:\c++\marzok 2022 oop\zero_oop\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+
+1671898142 source:e:\c++\marzok 2022 oop\00-zero_oop\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671242719 source:e:\c++\marzok 2022\arr_in_struct\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

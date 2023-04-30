@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672340708 source:e:\c++\marzok 2022 oop\copy_construstor\src\disyance.cpp
+	"Disyance.h"
+
+1672340764 e:\c++\marzok 2022 oop\copy_construstor\include\disyance.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1672349756 source:e:\c++\marzok 2022 oop\frist_oop\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"car.h"
+	"Rectangle.h"
+
+1672188792 e:\c++\marzok 2022 oop\frist_oop\include\car.h
+	<iostream>
+	<cmath>
+	<string>
+
+1672187644 source:e:\c++\marzok 2022 oop\frist_oop\src\car.cpp
+	"car.h"
+
+1672348579 source:e:\c++\marzok 2022 oop\frist_oop\src\rectangle.cpp
+	"Rectangle.h"
+
+1672348354 e:\c++\marzok 2022 oop\frist_oop\include\rectangle.h
+	<iostream>
+	<cmath>
+	<string>
+

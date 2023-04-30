@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671070797 source:e:\c++\marzok 2022\bool&search\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672344143 source:e:\c++\marzok 2022 oop\passing _objects_to_methods\src\distance.cpp
+	"Distance.h"
+
+1672343927 e:\c++\marzok 2022 oop\passing _objects_to_methods\include\distance.h
+	<iostream>
+	<string>
+
+1672344091 source:e:\c++\marzok 2022 oop\passing _objects_to_methods\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"Distance.h"
+

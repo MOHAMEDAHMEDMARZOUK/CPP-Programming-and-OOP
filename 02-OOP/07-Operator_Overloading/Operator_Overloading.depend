@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1672435691 source:e:\c++\marzok 2022 oop\operator_overloading\src\counter.cpp
+	"counter.h"
+
+1672435726 e:\c++\marzok 2022 oop\operator_overloading\include\counter.h
+	<iostream>
+	<string>
+
+1672435527 source:e:\c++\marzok 2022 oop\operator_overloading\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"counter.h"
+	"Distance.h"
+
+1672435913 e:\c++\marzok 2022 oop\operator_overloading\include\distance.h
+	<iostream>
+	<string>
+
+1672435315 source:e:\c++\marzok 2022 oop\operator_overloading\src\distance.cpp
+	"Distance.h"
+
+1672435691 source:e:\c++\marzok 2022 oop\07-operator_overloading\src\counter.cpp
+	"counter.h"
+
+1672435726 e:\c++\marzok 2022 oop\07-operator_overloading\include\counter.h
+	<iostream>
+	<string>
+
+1672435315 source:e:\c++\marzok 2022 oop\07-operator_overloading\src\distance.cpp
+	"Distance.h"
+
+1672435913 e:\c++\marzok 2022 oop\07-operator_overloading\include\distance.h
+	<iostream>
+	<string>
+
+1672437122 source:e:\c++\marzok 2022 oop\07-operator_overloading\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"counter.h"
+	"Distance.h"
+

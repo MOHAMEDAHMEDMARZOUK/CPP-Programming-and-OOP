@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672347739 source:e:\c++\marzok 2022 oop\method&con_overloaing\src\calculator.cpp
+	"calculator.h"
+
+1672347728 e:\c++\marzok 2022 oop\method&con_overloaing\include\calculator.h
+	<iostream>
+	<string>
+
+1672321879 source:e:\c++\marzok 2022 oop\method&con_overloaing\main.cpp
+	<iostream>
+	<string>
+	"calculator.h"
+

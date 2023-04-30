@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672268192 source:e:\c++\marzok 2022 oop\constructor\src\car.cpp
+	"car.h"
+
+1672269670 e:\c++\marzok 2022 oop\constructor\car.h
+	<iostream>
+	<cmath>
+	<string>
+
+1672268115 source:e:\c++\marzok 2022 oop\constructor\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"car.h"
+

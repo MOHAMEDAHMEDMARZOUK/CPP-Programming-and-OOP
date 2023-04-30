@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672362760 source:e:\c++\marzok 2022 oop\static_class_members\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"car.h"
+	"calculator.h"
+
+1672359289 e:\c++\marzok 2022 oop\static_class_members\include\car.h
+	<iostream>
+	<cmath>
+	<string>
+
+1672362025 source:e:\c++\marzok 2022 oop\static_class_members\src\car.cpp
+	"car.h"
+
+1672362716 source:e:\c++\marzok 2022 oop\static_class_members\src\calculator.cpp
+	"calculator.h"
+
+1672362703 e:\c++\marzok 2022 oop\static_class_members\include\calculator.h
+	<iostream>
+	<string>
+

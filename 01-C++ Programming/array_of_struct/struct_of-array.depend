@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671233884 source:e:\c++\marzok 2022\struct_of-array\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+
